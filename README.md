@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Panchu 👋
 
-<!--
-**Panchu11/Panchu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about building and scaling innovative AI applications. This is my personal GitHub, where I share my work on various AI-related projects and explore new ideas in the field.
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I focus on developing practical AI solutions and contributing to projects involving ML, NLP, and Large Language Models.
+- 🌱 I am particularly interested in efficiently training models on domain-specific data to create impactful applications.
+- 💬 Let's connect and talk about GPT-3, NLP, AI tools, and Open Source projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me 🤝
+- 🐦 [Twitter](https://twitter.com/panchananyadav5)
+- 📩 [Email](panchananefs@gmail.com)
+
+---
