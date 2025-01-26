@@ -1,4 +1,4 @@
-# Hi there, I'm Panchu 👋
+# Hi there, I'm PanchU 👋
 
 I am passionate about building and scaling innovative AI applications. This is my personal GitHub, where I share my work on various AI-related projects and explore new ideas in the field.
 
